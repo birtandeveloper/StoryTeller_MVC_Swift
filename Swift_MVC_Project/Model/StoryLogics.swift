@@ -1,10 +1,3 @@
-//
-//  StoryLogics.swift
-//  Swift_MVVM_Project
-//
-//  Created by Mac Os X on 15.10.2022.
-//
-
 import Foundation
 
 struct StoryLogics {
